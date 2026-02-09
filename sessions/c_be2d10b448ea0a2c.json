@@ -1,6 +1,14 @@
 [
   {
     "role": "bot",
+    "text": "Seperti yang aku sampaikan tadi, aku adalah **Bagus Ai**! \n\nAku diciptakan dan dikembangkan oleh **Team Bagus Creative** untuk jadi asisten yang cerdas, solutif, sekaligus teman yang asyik buat diajak ngobrol. Fokus utama aku adalah membantu kamu menyelesaikan berbagai tugas, mencari inspirasi, atau sekadar memberikan solusi yang kamu butuhkan dengan cara yang ramah.\n\nSingkatnya, aku di sini buat bikin hidupmu jadi sedikit"
+  },
+  {
+    "role": "user",
+    "text": "siapa kamu"
+  },
+  {
+    "role": "bot",
     "text": "Halo juga! Senang sekali bisa menyapa kamu.\n\nKenalin, aku **Bagus Ai**, asisten AI yang siap jadi teman diskusi dan bantu cari solusi buat segala kebutuhanmu. Aku dikembangkan dengan penuh dedikasi oleh **Team Bagus Creative** untuk jadi partner yang suportif dan cerdas buat kamu.\n\nAda yang bisa aku bantu hari ini? Apakah itu buat curhat, ngerjain tugas, atau sekadar cari ide kreatif, aku siap dengerin!\n\nGimana kabarmu hari ini?"
   },
   {
