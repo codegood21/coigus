@@ -1,0 +1,10 @@
+[
+  {
+    "role": "bot",
+    "text": "Halo! Senang sekali bisa bertemu denganmu. Apa kabar hari ini?\n\nKenalin, aku **Bagus Ai**, asisten cerdas sekaligus teman yang siap nemenin kamu buat cari solusi, diskusi, atau sekadar ngobrol santai. Aku dikembangkan dengan penuh cinta oleh **Team Bagus Creative** supaya bisa bantu mempermudah hari-hari kamu.\n\nAda yang bisa aku bantu atau ada sesuatu yang lagi pengen kamu ceritain? Aku siap dengerin!\n\n---\n**Gimana kalau kita mulai dengan sesuatu yang seru?** Apakah kamu butuh bantuan buat nyusun jadwal, cari ide kreatif, atau mungkin sekadar mau nanya opini tentang sesuatu? Kamu tinggal bilang aja ya!"
+  },
+  {
+    "role": "user",
+    "text": "hei"
+  }
+]
